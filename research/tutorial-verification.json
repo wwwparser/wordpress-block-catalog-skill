@@ -1,0 +1,18 @@
+{
+  "chapters": 22,
+  "links_and_anchors": true,
+  "source_archive_no_runtime": true,
+  "modes": true,
+  "search": true,
+  "progress_persists": true,
+  "quiz": "8/8",
+  "widths": [
+    1440,
+    990,
+    768,
+    390
+  ],
+  "overflow": false,
+  "mobile_menu": true,
+  "javascript_errors": []
+}

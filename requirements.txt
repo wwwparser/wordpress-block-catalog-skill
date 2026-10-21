@@ -1,0 +1,4 @@
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+# Integration browser checks only; use an existing installed Playwright browser.
+playwright>=1.55,<2
